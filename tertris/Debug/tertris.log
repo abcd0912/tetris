@@ -1,0 +1,4 @@
+﻿  tetris.c
+C:\Users\박준성\source\repos\tertris\tertris\tetris.c(81,25): warning C4026:  정식 매개 변수 목록을 사용하여 함수를 선언했습니다.
+C:\Users\박준성\source\repos\tertris\tertris\tetris.c(124,17): warning C4013:  'kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  tertris.vcxproj -> C:\Users\박준성\source\repos\tertris\Debug\tertris.exe
